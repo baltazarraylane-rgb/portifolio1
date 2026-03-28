@@ -56,7 +56,17 @@ header div a:hover{
     margin: 32px auto;
     font-size: 24px;
     line-height: 34px;
+
 }
 :root{
-     --subcor #57
+    --subcor: #57a615
+
 }
+header{
+    padding: 32px;
+    border-bottom: 3px solid var(--subcor);
+    background-color: black;
+
+}
+
+
